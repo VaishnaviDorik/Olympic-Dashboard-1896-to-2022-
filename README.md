@@ -20,6 +20,11 @@ Advanced DAX functions like `CALCULATE`, `FILTER`, `DISTINCTCOUNT`, and custom m
 To ensure data freshness, Python scripts are used to automate daily data collection and cleaning. This process guarantees the dashboard stays updated with the latest results in real-time, delivering timely insights just as the events unfold.
 
 ## 📊 Dashboard Highlights
+![image](https://github.com/user-attachments/assets/94df6dd4-9744-40db-a410-2a9ecb716d14)
+
+![image](https://github.com/user-attachments/assets/ad2f15a8-1a1d-4ea7-821b-e0d980bfd5d9)
+
+
 
 The dashboard is divided into four informative pages:
 
@@ -28,6 +33,7 @@ The dashboard is divided into four informative pages:
 
 - **Athlete Performance Analysis:**  
   A deep dive into individual athlete performances across various sports. This page identifies trends, record-breakers, and emerging stars that might shine in future games like LA 2028.
+  
 
 - **Country-wise Analysis:**  
   Compare and analyze how countries perform across different sports. This page helps identify strengths, weaknesses, and areas for strategic improvement in future competitions.
