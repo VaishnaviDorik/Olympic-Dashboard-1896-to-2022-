@@ -1,10 +1,10 @@
-# Olympic-Games-2024-Dashboard-
-# 🥇 Paris 2024 Olympics Dashboard – Power BI Project
+# Olympic-Games-1896 to 2022-Dashboard-
+# 🥇 Paris Olympics Dashboard – Power BI Project
 
-Welcome to my Paris 2024 Olympics interactive dashboard project! As a data enthusiast and sports fan, I combined my passions to create a dynamic, data-driven tool that dives deep into the insights of the Paris 2024 Olympic Games.
+Welcome to my Paris Olympics interactive dashboard project! As a data enthusiast and sports fan, I combined my passions to create a dynamic, data-driven tool that dives deep into the insights of the Paris Olympic Games.
 
 ## 🎯 Project Objective
-This project aims to provide an in-depth analysis of the Paris 2024 Olympics, offering real-time updates on medal tallies, athlete performances, country-wise comparisons, and historical trends—all within a sleek and user-friendly Power BI dashboard.
+This project aims to provide an in-depth analysis of the Paris  Olympics, offering real-time updates on medal tallies, athlete performances, country-wise comparisons, and historical trends—all within a sleek and user-friendly Power BI dashboard.
 
 ## 🔑 Key Features
 
@@ -22,7 +22,7 @@ To ensure data freshness, Python scripts are used to automate daily data collect
 The dashboard is divided into four informative pages:
 
 - **Overview:**  
-  A comprehensive snapshot of the Paris 2024 Olympics, showcasing the overall medal tally, top-performing countries, and standout athletes.
+  A comprehensive snapshot of the Paris Olympics, showcasing the overall medal tally, top-performing countries, and standout athletes.
 
 - **Athlete Performance Analysis:**  
   A deep dive into individual athlete performances across various sports. This page identifies trends, record-breakers, and emerging stars that might shine in future games like LA 2028.
