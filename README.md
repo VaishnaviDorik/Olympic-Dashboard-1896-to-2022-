@@ -1,5 +1,7 @@
 # Olympic-Games-1896 to 2022-Dashboard-
 # 🥇 Paris Olympics Dashboard – Power BI Project
+# Demo Video :
+-<a href="https://drive.google.com/file/d/1LVMLGDW1OKaovszgPzPc-E0n6rpzpIqw/view?usp=sharing">Video</a>
 
 Welcome to my Paris Olympics interactive dashboard project! As a data enthusiast and sports fan, I combined my passions to create a dynamic, data-driven tool that dives deep into the insights of the Paris Olympic Games.
 
@@ -44,6 +46,5 @@ This project is not just a sports analysis tool but a demonstration of how data 
 - **Python**: Data collection and automation
 - **DAX**: Advanced data analysis and calculation.
 
-**Connect with Me:**  
-[LinkedIn](https://www.linkedin.com/in/amansharma270) | [GitHub](https://github.com/Maveaman)
+
 
